@@ -1,5 +1,7 @@
 # analysis_of_contracting
 
+Context & Some initial Market Research:
+
 [USA Spending](https://www.usaspending.gov/Pages/Default.aspx)
 
 [Overview of USA Spending TimeSeries](https://www.usaspending.gov/transparency/Pages/OverviewOfAwards.aspx)
